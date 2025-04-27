@@ -88,6 +88,9 @@ body {
     border: none;
     font-weight: bold;
 }
+#register h2 {
+    color: #333; /* Dark gray color for better visibility */
+}
 
 /* Contact section */
 #contact {
